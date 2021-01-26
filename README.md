@@ -1,4 +1,4 @@
 Some new changes has been made.
 ```javascript
-<div>Hello</div>
+const arr = [5, 6, 4];
 ```
