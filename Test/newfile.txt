@@ -2,3 +2,5 @@ This is a file inside a folder
 Text added in vs code.
 
 New line added in vs code
+
+New line added in browser.
