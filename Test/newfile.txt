@@ -1,2 +1,2 @@
 This is a file inside a folder
-Text added in vs code
+Text added in vs code.
